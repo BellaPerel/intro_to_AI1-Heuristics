@@ -5,7 +5,7 @@ import json
 import itertools
 import time
 
-ids = ["316350651", "324620814"]
+ids = ["id1", "id2"]
 
 
 # convert dictionary nested dictionaries to json
